@@ -1,4 +1,4 @@
-# RedDragon ![RedDragon Logo](image_3.ico)
+# ![RedDragon Logo](image_3.ico) RedDragon
 ![Certified Encryption](https://img.shields.io/badge/Encryption-Certified-blue?logo=lock&logoColor=white) ![Military Grade](https://img.shields.io/badge/Encryption-Military--Grade-red?logo=shield&logoColor=white)
 
 
